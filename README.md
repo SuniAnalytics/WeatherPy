@@ -16,7 +16,7 @@
 
 ### Create Travel desinations map
        Capture customer's minimum and maximum temperature preferences and generated a map with city, hotel and weather info.
-     ![](https://github.com/SuniAnalytics/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
+![](https://github.com/SuniAnalytics/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
      
        
 
