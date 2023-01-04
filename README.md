@@ -19,5 +19,7 @@
 ![](https://github.com/SuniAnalytics/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
      
        
-
 ### Create travel itinerary map
+        For the four cities filtered based on preferences, created below route map to travel from Arica city to Salto City
+![](https://github.com/SuniAnalytics/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)      
+        
